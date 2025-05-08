@@ -3,3 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.main{
+    height: 100%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+ 
